@@ -277,4 +277,6 @@ minikube service jenkins-kubernetes-docker-react-service
 
  ![Screenshot 2025-02-22 163126](https://github.com/user-attachments/assets/0f98055e-28e2-4509-9ab6-586d1d997c2f)
 
-
+## Contributors
+- Nouhaila Hajjaoui
+- Achraf Brini
